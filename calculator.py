@@ -6,5 +6,5 @@ def multiply_numbers(a, b):
 
 def divide_numbers(a, b):
     if b == 0:
-        return "Ошибка: деление на ноль!"
+        return "У вас Ошибка! деление на ноль!"
     return a / b
